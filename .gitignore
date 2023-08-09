@@ -36,3 +36,5 @@ password.txt
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+1.8.1
