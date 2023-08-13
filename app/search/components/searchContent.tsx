@@ -1,4 +1,4 @@
-import React from "react";
+"use client";
 
 import { Song } from "@/types";
 import MediaItem from "@/components/MediaItem";
